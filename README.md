@@ -9,7 +9,7 @@ estrutura de arquivos:
 pagina-html-simples/
 ├── index.html
 ├── imagens/
-│   └── exemplo.jpg
+│   └── imagem/2382772549_ce2c067b7f_b.jpg
 ├── style.css
 ├── README.md
 ```
